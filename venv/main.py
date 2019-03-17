@@ -3,7 +3,7 @@ import tkinter.ttk as ttk
 from EntryNum import EntryNum
 import re
 
-x = 11
+x = 111
 def mouse_click(event):
     x = event.x
     y = event.y
